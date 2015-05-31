@@ -1,0 +1,40 @@
+
+div {
+  padding-top: 25px;
+}
+
+#answer{
+  padding-top: 25px;
+  text-align: center;
+  font-size: 32px;
+}
+
+#two {
+  padding-top: 20px;
+}
+
+ #click ,#reset {
+  padding: 10px 20px 10px 20px;
+  background-color: white;
+  border-radius: 10px;
+  border-style: line;
+}
+
+form {
+  text-align: center;
+  border-style: solid;
+  border-radius: 20px;
+  border-color: black;
+  padding: 0 0 20px 0;
+}
+
+h1 {
+  text-align: center;
+  font-style: oblique;
+}
+
+
+body {
+  margin: 0 20em;
+  background-color: white;
+}
